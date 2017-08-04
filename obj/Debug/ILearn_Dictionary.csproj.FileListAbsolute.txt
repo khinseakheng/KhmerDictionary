@@ -1,0 +1,11 @@
+C:\Users\DELL\Desktop\ILearn_Dictionary\ILearn_Dictionary\obj\Debug\ILearn_Dictionary.Form1.resources
+C:\Users\DELL\Desktop\ILearn_Dictionary\ILearn_Dictionary\obj\Debug\ILearn_Dictionary.Properties.Resources.resources
+C:\Users\DELL\Desktop\ILearn_Dictionary\ILearn_Dictionary\obj\Debug\ILearn_Dictionary.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\ILearn_Dictionary\ILearn_Dictionary\bin\Debug\ILearn_Dictionary.exe.config
+C:\Users\DELL\Desktop\ILearn_Dictionary\ILearn_Dictionary\bin\Debug\ILearn_Dictionary.exe
+C:\Users\DELL\Desktop\ILearn_Dictionary\ILearn_Dictionary\bin\Debug\ILearn_Dictionary.pdb
+C:\Users\DELL\Desktop\ILearn_Dictionary\ILearn_Dictionary\obj\Debug\ILearn_Dictionary.exe
+C:\Users\DELL\Desktop\ILearn_Dictionary\ILearn_Dictionary\obj\Debug\ILearn_Dictionary.pdb
+C:\Users\DELL\Desktop\ILearn_Dictionary\ILearn_Dictionary\obj\Debug\ILearn_Dictionary.frmDeveloper.resources
+C:\Users\DELL\Desktop\ILearn_Dictionary\ILearn_Dictionary\obj\Debug\ILearn_Dictionary.frmfeedback.resources
+C:\Users\DELL\Desktop\ILearn_Dictionary\ILearn_Dictionary\obj\Debug\ILearn_Dictionary.frmapp.resources
